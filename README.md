@@ -136,14 +136,13 @@ Growth Curve       : Continuous Improvement ↑
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Himanshu25589&show_icons=true&theme=transparent&hide_border=true" height="150"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Himanshu25589&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=Himanshu25589&theme=transparent&hide_border=true" height="150"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu25589&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-
----
+## 📈 Activity Overview
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu25589&theme=github-compact&hide_border=true"/>
