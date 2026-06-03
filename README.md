@@ -136,21 +136,18 @@ Growth Curve       : Continuous Improvement ↑
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Himanshu2557-coder&show_icons=true&theme=transparent&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Himanshu25589&show_icons=true&theme=transparent&hide_border=true" height="150"/>
 
-<img src="https://streak-stats.demolab.com?user=Himanshu25589-coder&theme=transparent&hide_border=true" height="150"/>
+<img src="https://streak-stats.demolab.com?user=Himanshu25589&theme=transparent&hide_border=true" height="150"/>
 
 </p>
 
----
 
-## 📈 Activity Overview
+---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu25589-coder&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu25589&theme=github-compact&hide_border=true"/>
 </p>
-
----
 
 ## 🎮 Continuous Progress System
 
