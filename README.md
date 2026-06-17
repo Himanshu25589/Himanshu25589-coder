@@ -25,9 +25,9 @@ NAME        : Himanshu Saini
 ROLE        : Software Engineering Student @ DTU  
 
 FOCUS       :
-  - Data Structures & Algorithms  
-  - Full Stack Development  
-  - Artificial Intelligence | GenAI  
+  - Agentic AI Systems
+  - LangChain | RAG | LangGraph
+  - Data Structures & Algorithms
 
 GOAL        :
   Build AI Powered Systems  
@@ -54,7 +54,7 @@ BACKEND     :
   - Firebase | MySQL  
 
 AI STACK    :
-  - Machine Learning | GenAI | APIs  
+  - LangChain | LangGraph | RAG | Mistral AI 
 
 TOOLS       :
   - Git | GitHub | VS Code  
@@ -75,12 +75,12 @@ APPROACH    :
 
 ```bash id="ultra3"
 > system.achievements()
-
-• Strong foundation in Data Structures & Algorithms  
-• Building Full Stack + AI systems  
-• Exploring Generative AI  
-• Consistent daily learning & development  
-• Focused on scalable problem solving  
+- Built and shipped 2 production AI systems (multi-agent pipeline + RAG-based assistant)  
+- Oracle Certified Generative AI Professional  
+- 6,300+ LinkedIn followers in AI & tech content  
+- Consistent technical writer on Medium  
+- Daily DSA practice — building toward placement readiness
+- Actively solving CP problems 
 ```
 
 ---
@@ -89,12 +89,11 @@ APPROACH    :
 
 ```bash id="ultra4"
 > analyze.capabilities()
-
-Problem Solving     : Data Structures & Algorithms  
-Development        : Full Stack Engineering  
-AI Focus           : Machine Learning + GenAI  
-System Thinking    : Modular | Scalable | Efficient  
-Growth Curve       : Continuous Improvement ↑  
+AI Engineering      : Multi-Agent Systems | RAG | LLM Orchestration  
+Problem Solving     : Data Structures & Algorithms | Competitive Programming  
+System Thinking     : Modular | Scalable | Production-Ready  
+CP Practice         : TLE Eliminators CP-31 Sheet | Codeforces (Div 4)  
+Growth Curve        : Continuous Improvement ↑
 ```
 
 ---
